@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.weather-display {
+    transition: transform 0.2s;
+}
+
+.weather-display:hover {
+    transform: scale(1.05);
+}
+
